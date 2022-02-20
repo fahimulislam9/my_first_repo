@@ -1,0 +1,23 @@
+.blog{
+    background-color: rgba(34, 132, 245, 0.363);
+    color: crimson;
+    border: 5px solid rgb(177, 0, 0);
+    border-radius: 10px;
+    margin: 10px 80px;
+    padding: 15px 10px;
+}
+.blog-heading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+.author{
+    color: darkred;
+}
+.blog p{
+    color: rgb(228, 68, 5);
+    text-align: justify;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
